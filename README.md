@@ -1,1 +1,1 @@
-# Coding-Problems-on-ds-and-algo
+# Coding Problems on Algorithms
