@@ -1,5 +1,5 @@
 //https://www.codingninjas.com/studio/problems/wildcard-pattern-matching_701650?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=PROBLEM
-
+// Memoization 
 public class Solution {
   
 	private static boolean checkForStars(String s1, int m){
